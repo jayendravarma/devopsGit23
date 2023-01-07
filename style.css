@@ -2,3 +2,7 @@ html {
   border: 0;
   font-style: oblique;
 }
+
+.table {
+  background-origin: padding-box;
+}
